@@ -1,0 +1,14 @@
+This is a simple TODO list I created as my 2nd learning project.
+
+This is built with HTML, CSS and JQuery
+
+It inputs a text 'todo' and adds it to the TO DO list (we call it the 'Miles to go & things to do' list). 
+
+Upon completeion(clicking) on a specific milestone item in the list, it is then removed from the ToDo list and added in the list of done (again, a bit fancy, we call it 'The roads travelled so far')
+
+It keeps a local copy of the list on the browser and everything goes away when refreshed. 
+
+
+
+Maybe someday I'll build a more community driven ToDo List. :)
+
